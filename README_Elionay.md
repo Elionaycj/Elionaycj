@@ -1,19 +1,16 @@
+# 👋 Olá, eu sou Elionay Sampaio
+
 <div align="center">
 
-<!-- Banner animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elionay%20Sampaio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Back-end%20Developer%20in%20progress%20🚀&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elionay%20Sampaio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Suporte%20Técnico%20de%20TI%20%7C%20Desenvolvedor%20Back-end%20Jr.&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Python+%7C+Java+%7C+SQL+%7C+APIs+REST;Disciplina+de+industria%2C+mente+de+dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Back-end+em+formação;Suporte+Técnico+%7C+Hardware+%7C+Software;Python+%7C+Java+%7C+JavaScript+%7C+SQL;APIs+REST+%7C+Automação+%7C+IA" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges de contato -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elionay%20Sampaio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elionaysampaio)
-[![Gmail](https://img.shields.io/badge/Gmail-elionaycj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elionaycj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Elionaycj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elionaycj)
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elionay%20Sampaio-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/elionaysampaio)
+[![Gmail](https://img.shields.io/badge/Gmail-elionaycj%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:elionaycj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Elionaycj-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Elionaycj)
 
 </div>
 
@@ -21,69 +18,203 @@
 
 ## 👨‍💻 Sobre mim
 
+Sou profissional de TI com experiência em **suporte técnico, manutenção de hardware, atendimento a clientes e desenvolvimento de software**.
+
+Atualmente curso **Engenharia de Software pela UNINTER** e estou direcionando minha carreira para **desenvolvimento Back-end**, com foco em Python, Java, JavaScript, SQL, APIs REST e automação.
+
+Também possuo experiência em ambiente industrial de alta complexidade, atuando com **controle de qualidade, análise de processos, identificação de falhas e melhoria contínua**.
+
+Meu diferencial é combinar a experiência prática da indústria e do suporte técnico com o desenvolvimento de soluções de software.
+
 ```python
 class Elionay:
     def __init__(self):
-        self.nome        = "Elionay Gonçalves Sampaio"
-        self.localizacao = "Sumaré, SP 📍"
-        self.formacao    = "Engenharia de Software — UNINTER (2026–2030)"
-        self.foco        = ["Back-end", "APIs REST", "Automação", "SQL"]
-        self.buscando    = "Estágio em desenvolvimento de software 🎯"
-        self.diferencial = "Rigor industrial aplicado à qualidade de código"
+        self.nome = "Elionay Gonçalves Sampaio"
+        self.localizacao = "Sumaré, SP"
+        self.formacao = "Engenharia de Software — UNINTER"
+        self.foco = [
+            "Desenvolvimento Back-end",
+            "Suporte Técnico de TI",
+            "APIs REST",
+            "SQL",
+            "Automação",
+            "Inteligência Artificial"
+        ]
+        self.objetivo = "Atuar como Desenvolvedor Back-end Jr. ou Suporte Técnico de TI"
 
     def hello(self):
         print("Olá! Seja bem-vindo ao meu GitHub 🚀")
 ```
 
-> Venho de um ambiente industrial de **alta exigência** — onde tolerância zero a erros não é slogan, é rotina.
-> Carrego essa disciplina para o código: **limpo, funcional e orientado a resultados**.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+### 💻 Desenvolvimento
 
-### 💜 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### ⚙️ Back-end & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
 
 ### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🧠 Conceitos
-![POO](https://img.shields.io/badge/POO-6366F1?style=for-the-badge&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-10B981?style=for-the-badge&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+### 🔧 Suporte Técnico & Infraestrutura
 
-</div>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+Conhecimentos em:
+
+* Diagnóstico e manutenção de hardware
+* Troubleshooting de software
+* Instalação e configuração de sistemas
+* Windows e noções de Linux
+* Montagem e manutenção de computadores
+* Instalação de SSDs e periféricos
+* Manutenção preventiva e corretiva
+* Suporte a usuários
+* Diagnóstico de falhas
+
+---
+
+## 📱 Manutenção de Smartphones
+
+Experiência prática com diagnóstico e manutenção de dispositivos **Android e iOS**, incluindo:
+
+* Troca de telas e baterias
+* Substituição de conectores e componentes
+* Diagnóstico de falhas de hardware e software
+* Formatação e configuração de dispositivos
+* Atualização e recuperação de sistemas
+* Limpeza e manutenção preventiva
+* Testes de funcionamento e controle de qualidade
+
+---
+
+## 🤖 Inteligência Artificial
+
+Conhecimentos e estudos em:
+
+* Fundamentos de Inteligência Artificial
+* LLMs (Large Language Models)
+* Prompt Engineering
+* APIs de Inteligência Artificial
+* Integração de modelos de linguagem em aplicações
+* Automação utilizando IA
+* Fundamentos de Machine Learning
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+### 🏭 ZF Hora Extra
 
-| 🔥 Projeto | 📋 Descrição | 🛠️ Stack |
-|:---:|:---|:---:|
-| [**ZF Hora Extra**](https://github.com/Elionaycj/ZF-hora-extra) | Sistema de controle e cálculo de horas extras para ambiente industrial. Automatiza o processo manual, reduzindo erros e aumentando eficiência. | `Python` `SQL` |
-| **[ em breve ]** | Próximo projeto — API REST com autenticação e banco de dados relacional | `Python` `FastAPI` `PostgreSQL` |
+Sistema desenvolvido para **digitalizar e automatizar o processo de registro e controle de horas extras em ambiente industrial**.
 
-</div>
+O projeto busca reduzir processos manuais, melhorar a organização das informações e facilitar o acompanhamento das solicitações.
+
+**Principais conceitos:**
+
+* Automação de processos
+* Integração com Google Sheets
+* Desenvolvimento Web
+* APIs
+* Controle de dados
+* Interface para utilização em ambiente corporativo
+
+🔗 [Ver projeto no GitHub](https://github.com/Elionaycj/ZF-hora-extra)
+
+---
+
+### 🔜 Próximo projeto
+
+**API REST para gerenciamento de dados**
+
+Projeto em desenvolvimento com foco em:
+
+* API REST
+* CRUD
+* Autenticação
+* Banco de dados relacional
+* Boas práticas de desenvolvimento
+* Docker
+* Testes automatizados
+
+---
+
+## 📚 Atualmente estudando
+
+* 🐍 **Python** — estruturas de dados, algoritmos, automação e desenvolvimento Back-end
+* ☕ **Java** — fundamentos, POO e desenvolvimento de aplicações
+* 🟨 **JavaScript** — lógica, estruturas de dados e desenvolvimento Web
+* 🔌 **APIs REST** — arquitetura, integração e boas práticas
+* 🗃️ **SQL / PostgreSQL** — modelagem e consultas
+* 🐳 **Docker** — conteinerização de aplicações
+* 🤖 **Inteligência Artificial** — LLMs, APIs e automação
+
+---
+
+## 💼 Experiência Profissional
+
+### ZF Automotive Brasil
+
+**Operador de Produção III — Nov/2021 – Atual**
+
+Experiência em ambiente industrial de alta complexidade, com foco em:
+
+* Controle de qualidade
+* Análise crítica de processos
+* Identificação de falhas
+* Melhoria contínua
+* Inspeção e validação técnica
+* Padronização de processos
+
+### TowerTech
+
+**Técnico em Manutenção de Hardware — Autônomo — Nov/2020 – Atual**
+
+Atuação com:
+
+* Diagnóstico e manutenção de computadores
+* Manutenção de smartphones
+* Suporte técnico a clientes
+* Instalação e configuração de sistemas
+* Organização e gerenciamento de atendimentos
+* Desenvolvimento de sistema próprio para apoio à gestão do negócio
+
+---
+
+## 🧠 Soft Skills
+
+* Comunicação clara e objetiva
+* Pensamento analítico
+* Resolução de problemas
+* Raciocínio lógico
+* Trabalho em equipe
+* Proatividade
+* Autonomia
+* Organização
+* Disciplina
+* Adaptabilidade
+* Aprendizado contínuo
+* Atenção aos detalhes
+* Foco em resultados
 
 ---
 
@@ -92,45 +223,23 @@ class Elionay:
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Elionaycj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" />
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elionaycj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Elionaycj&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+![GitHub Streak](https://streak-stats.demolab.com?user=Elionaycj\&theme=tokyonight\&hide_border=true\&background=0d1117\&ring=A78BFA\&fire=A78BFA\&currStreakLabel=A78BFA)
 
 </div>
 
 ---
 
-## 🧠 Soft Skills que venho da indústria
-
-```
-✅ Disciplina e rigor na execução         → código limpo e confiável
-✅ Análise crítica de processos           → debug e melhoria contínua
-✅ Trabalho sob pressão e prazos          → entrega consistente
-✅ Foco em qualidade zero-defeito         → testes e validação
-✅ Adaptação rápida a novos processos     → aprendizado ágil
-```
-
----
-
-## 📈 Atualmente estudando
-
-- 🐍 **Python avançado** — estruturas de dados, algoritmos e automação
-- 🔌 **APIs REST** — arquitetura, boas práticas e segurança
-- 🗃️ **PostgreSQL** — modelagem relacional e queries otimizadas
-- ☕ **Java** — POO e lógica de programação
-- 🐳 **Docker** — conteinerização de aplicações
-
----
-
 <div align="center">
 
-<!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-**"A disciplina que aprendi na indústria é o mesmo rigor que aplico no código."**
+**"Experiência prática, disciplina e tecnologia para transformar problemas em soluções."**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elionaycj.Elionaycj&style=for-the-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elionaycj.Elionaycj\&style=for-the-badge)
 
 </div>
